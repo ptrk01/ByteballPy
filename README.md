@@ -13,3 +13,5 @@ Requires Python 2.7 or higher.
 and call the Api class
 
 ```bb = byteball.Api()```
+
+*The package included file test.py shows usage examples.*
