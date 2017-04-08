@@ -14,4 +14,4 @@ and call the Api class
 
 ```bb = byteball.Api()```
 
-*The package included file test.py shows usage examples.*
+*The repository included file test.py shows usage examples.*
